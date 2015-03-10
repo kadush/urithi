@@ -16,10 +16,7 @@
     <link href="<?php echo base_url(); ?>assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/css/bootstrap-reset.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
-     <link href="<?php echo base_url(); ?>assets/css/jvector-map/jquery-jvectormap-1.2.2.css" rel="stylesheet">
-    <link href="<?php echo base_url(); ?>assets/css/clndr.css" rel="stylesheet">
-    <!--Morris Chart CSS -->
-    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/morris-chart/morris.css">
+
     <!-- Custom styles for this template -->
     <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/css/style-responsive.css" rel="stylesheet" />
@@ -177,7 +174,7 @@
             <div class="panel-body">
                 <div class="monthly-stats pink">
                     <div class="clearfix">
-                        <h4 class="pull-left"> January 2015</h4>
+                        <h4 class="pull-left"> January 2013</h4>
                         <!-- Nav tabs -->
                         <div class="btn-group pull-right stat-tab">
                             <a href="#line-chart" class="btn stat-btn active" data-toggle="tab"><i class="ico-stats"></i></a>
@@ -303,12 +300,7 @@
 <script src="<?php echo base_url(); ?>assets/js/jQuery-slimScroll-1.3.0/jquery.slimscroll.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/jquery.nicescroll.js"></script>
 <!--Easy Pie Chart-->
-<script src="<?php echo base_url(); ?>assets/js/skycons/skycons.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/jquery.scrollTo/jquery.scrollTo.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/easypiechart/jquery.easypiechart.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/calendar/clndr.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/calendar/moment-2.2.1.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/evnt.calendar.init.js"></script>
 <!--Sparkline Chart-->
 <script src="<?php echo base_url(); ?>assets/js/sparkline/jquery.sparkline.js"></script>
 <!--jQuery Flot Chart-->
@@ -316,33 +308,11 @@
 <script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.tooltip.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.resize.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.pie.resize.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/jvector-map/jquery-jvectormap-1.2.2.min.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/jvector-map/jquery-jvectormap-us-lcc-en.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/gauge/gauge.js"></script>
+
 
 <!--common script init for all pages-->
 <script src="<?php echo base_url(); ?>assets/js/scripts.js"></script>
-<!--clock init-->
-<script src="<?php echo base_url(); ?>assets/js/css3clock/js/css3clock.js"></script>
-<!--Easy Pie Chart-->
-<script src="<?php echo base_url(); ?>assets/js/easypiechart/jquery.easypiechart.js"></script>
-<!--Sparkline Chart-->
-<script src="<?php echo base_url(); ?>assets/js/sparkline/jquery.sparkline.js"></script>
-<!--Morris Chart-->
-<script src="<?php echo base_url(); ?>assets/js/morris-chart/morris.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/morris-chart/raphael-min.js"></script>
-<!--jQuery Flot Chart-->
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.tooltip.min.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.resize.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.pie.resize.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.animator.min.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/flot-chart/jquery.flot.growraf.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/dashboard.js"></script>
-<script src="<?php echo base_url(); ?>assets/js/jquery.customSelect.min.js" ></script>
-<!--common script init for all pages-->
-<script src="<?php echo base_url(); ?>assets/js/scripts.js"></script>
-<!--script for this page-->
+
 </body>
 
 <!-- Mirrored from bucketadmin.themebucket.net/blank.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Aug 2014 13:02:30 GMT -->

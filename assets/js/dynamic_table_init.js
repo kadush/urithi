@@ -21,7 +21,7 @@ $(document).ready(function() {
      */
     var nCloneTh = document.createElement( 'th' );
     var nCloneTd = document.createElement( 'td' );
-    nCloneTd.innerHTML = '<img src="images/details_open.png">';
+    nCloneTd.innerHTML = '<img src="details_open.png">';
     nCloneTd.className = "center";
 
     $('#hidden-table-info thead tr').each( function () {
@@ -57,7 +57,7 @@ $(document).ready(function() {
         else
         {
             /* Open this row */
-            this.src = "images/details_close.png";
+            this.src = "details_close.png";
             oTable.fnOpen( nTr, fnFormatDetails(oTable, nTr), 'details' );
         }
     } );

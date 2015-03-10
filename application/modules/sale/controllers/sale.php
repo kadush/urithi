@@ -9,7 +9,7 @@ class Sale extends CI_Controller {
 		$data['staff'] = $this->home_model->get_staff();
 		$data['projects'] = $this->home_model->get_projects();
 		*/
-		$this->load->view('sale_v');
+		$this->load->view('deal_v');
 	}
 	public function deal()
 	{
